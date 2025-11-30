@@ -1,3 +1,6 @@
 ﻿  INFO: qr-digi has no changes to commit
   SUCCESS: Pushed qr-digi to cloud
   INFO: qr-digi has uncommitted changes, proceeding with commit
+  SUCCESS: Committed changes in qr-digi
+  SUCCESS: Pushed qr-digi to cloud
+  INFO: qr-digi has uncommitted changes, proceeding with commit
