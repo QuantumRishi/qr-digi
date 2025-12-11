@@ -9,3 +9,6 @@
   INFO: qr-digi has uncommitted changes, proceeding with commit
   ERROR: Failed to process qr-digi - Failed to commit in qr-digi
   INFO: qr-digi has uncommitted changes, proceeding with commit
+  SUCCESS: Committed changes in qr-digi
+  SUCCESS: Pushed qr-digi to cloud
+  INFO: qr-digi has uncommitted changes, proceeding with commit
